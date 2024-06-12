@@ -1,0 +1,67 @@
+# Arquivos de compilação gerados
+bin/
+obj/
+
+# Arquivos temporários
+.vs/
+*.user
+*.suo
+
+# Arquivos de configuração do IDE
+*.vscode/
+*.sln.cache
+*.suo
+*.user
+*.userprefs
+*.pidb
+
+# Logs e arquivos de depuração
+*.log
+*.swp
+*.swo
+*.sln.docstates
+*.pdb
+*.dll.mdb
+*.ipch/
+debug.log
+release.log
+
+# Pasta de pacotes NuGet
+packages/
+*.nupkg
+!*.snupkg
+*.~
+*.nuget.props
+*.nuget.targets
+
+# Arquivos de análise e documentação
+*.json
+*.xml
+*.html
+*.md
+*.pdf
+*.csv
+
+# Arquivos de compilação gerados por ferramentas
+*.cache
+*.log
+*.bak
+*.config
+*.sqlite
+
+# Ferramentas criadas pelo usuário
+build/
+
+# Arquivos de dependência Node.js
+node_modules/
+
+# Arquivos de dependência .NET
+*.exe
+*.dll
+*.pdb
+*.user
+*.tmp
+*.DS_Store
+
+# Visual Studio Code specific files
+.vscode/
